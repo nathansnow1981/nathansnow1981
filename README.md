@@ -2,8 +2,7 @@
 
 👋 Hi, I’m Nathan ([@nathansnow1981](https://github.com/nathansnow1981)) and I'm an ICT bachelor student at [CQUniversity](https://www.cqu.edu.au/ "Visit CQU") Australia majoring in application development.
 
-I currently have a [Diploma](https://en.wikipedia.org/wiki/Diploma) of [ICT](https://en.wikipedia.org/wiki/Information_and_communications_technology), and will shortly receive an
-[Associate Degree](https://en.wikipedia.org/wiki/Associate_degree) and [Bachelor's Degree](https://en.wikipedia.org/wiki/Bachelor%27s_degree) in the same fields.
+I currently have a [Diploma of ICT](../documents/DiplomaICT.pdf "View Nathan's Diploma"), and will shortly receive an Associate Degreeand Bachelor's Degree in the same fields.
 
 Languages and frameworks covered so far include:
 - Java
@@ -20,7 +19,7 @@ Languages and frameworks covered so far include:
 - Bootstrap
 - MVC & MVP patterns 
 
-I am very focused and meticulous about any given tasks, and am always searching for new things to learn and ways to improve.
+I am very focused and meticulous about any given tasks as can be seen in my collection of [commendation letters](../documents/commendation_letters/ "View Commendation Letters"), and am always searching for new things to learn and ways to improve.
 
 I am interested in collaborating on projects in any of the above languages to help strengthen my skills by learing from those more knowledgable than myself, and also share my knowledge to help others learn if and where I can.
 
