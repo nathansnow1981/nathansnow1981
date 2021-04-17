@@ -2,7 +2,7 @@
 
 👋 Hi, I’m Nathan ([@nathansnow1981](https://github.com/nathansnow1981)) and I'm an ICT bachelor student at [CQUniversity](https://www.cqu.edu.au/ "Visit CQU") Australia majoring in application development.
 
-I currently have a [Diploma of ICT](documents/DiplomaICT.pdf "View Nathan's Diploma"), and will shortly receive an Associate Degreeand Bachelor's Degree in the same fields.
+I currently have a [Diploma of ICT](documents/DiplomaICT.pdf "View Nathan's Diploma"), and will shortly receive an Associate's Degree and Bachelor's Degree in the same fields.
 
 Languages and frameworks covered so far include:
 - Java
