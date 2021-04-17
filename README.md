@@ -13,7 +13,7 @@ Languages and frameworks covered so far include:
 - SQL
 - JavaScript
 - JQuery (And JQM)
-- JSf
+- JSF
 - HTML
 - CSS
 - Bootstrap
