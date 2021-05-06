@@ -1,5 +1,5 @@
 # Covid Contact Tracer
-This console application demonstrates a simple **client-server** kiosk type console system allowing people to sign in and out of public venues using a username and password.
+This console application demonstrates a simple ** UDP client-server** kiosk type console system allowing people to sign in and out of public venues using a username and password.
 
 During the [server](src/main/java/com/covid_contact_tracer/CTServer.java) lifetime, it records the log-in and log-out actions for each person and categorizes the person's [Risk Factor](src/main/java/com/covid_contact_tracer/RiskFactor.java) based on the number of times they have checked in to a public place(<5 = low risk, >5 & <10 = medium risk, and >10 = high risk).
 
