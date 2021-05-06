@@ -39,4 +39,4 @@ public class ThankYou{
 }
 ```
 ___
-Additionally, if you'd like to hang out with new or veteran developers join the [©ode DistrICT](https://discord.gg/8yKXT2RK3w) discord server!
+
