@@ -8,3 +8,5 @@ E.g. A person who has logged in 3 times will be defined as "low risk", while a p
 On startup the server gets its list of [Person](src/main/java/com/covid_contact_tracer/Person.java) objects from the [Seed Data](src/main/java/com/covid_contact_tracer/data/Seed_Data.csv) file, which is used to populate a LinkedList. 
 ___
 ***Please note:*** If you wish to run this program, please run the [Server](src/main/java/com/covid_contact_tracer/CTServer.java) first, then you can run as many [Client](src/main/java/com/covid_contact_tracer/CTClient.java) instances as you wish.
+
+TCP Version to come
